@@ -1,8 +1,9 @@
 # Object Oriented Programming
 # TU856 & TU858
 # Semester 1, 2020-21
-# B. Schoen-Phelan
+# Klaudiusz Nowakowski
 # 11-12-2020
+# Lab Test 2
 
 class Document:
     """
@@ -71,6 +72,7 @@ class Document:
         Method backward moves the cursor position to
         that specific location in the characters list.
         Arguments:
+
         ----------
         steps : int
             The amount of steps to go back
